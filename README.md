@@ -8,3 +8,6 @@
 - Revenue by Department, by Category, Daily Revenue.
 - Weekly Sales by Customer Gender
 - Top Salesperson
+2. [Monthly Super Store Customer Report]([SuperStore.pdf](https://github.com/DinhNhatAnh/Power-BI-Projects/blob/main/SuperStore.pdf))
+- Customer Cohort And Retention Analysis
+- Lost Customers, Retained Customers, Resurrected Customers
