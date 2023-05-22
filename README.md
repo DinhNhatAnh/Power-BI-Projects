@@ -11,3 +11,7 @@
 3. [Monthly Super Store Customer Report](https://github.com/DinhNhatAnh/Power-BI-Projects/blob/main/SuperStore.pdf)
 - Customer Cohort And Retention Analysis
 - Lost Customers, Retained Customers, Resurrected Customers
+4. [Road Accident]
+- Road Accident Analysis
+- Casualties by Location, Casualties by Vehicle
+- Casualties by Urban/Rural, Casualties by Light Condition, Casualties by Road Type
