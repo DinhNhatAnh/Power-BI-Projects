@@ -19,3 +19,7 @@
 - Casualties by Road Type for Current Year
 - Current Year Casualties by Area/Location and by Day/Night
 - Total Casualties and Total Accident by Location
+5. [Toy Sales Dashboard](https://github.com/DinhNhatAnh/Power-BI-Projects/blob/main/Toy%20Sales%20Dashboard.pdf)
+- Compare the selected top N product to the overall revenue
+- Revenue trend on a monthly basis
+- Revenue comparison across sales regions
