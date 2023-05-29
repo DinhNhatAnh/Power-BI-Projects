@@ -1,5 +1,5 @@
 # Power BI Projects
-1. [Sales Dashboard]([Dashboard.pdf](https://github.com/DinhNhatAnh/Power-BI-Projects/blob/main/Dashboard.pdf)
+1. [Sales Dashboard](https://github.com/DinhNhatAnh/Power-BI-Projects/blob/main/Dashboard.pdf)
 - Overview Dashboard
 - Revenue and Profit by Month, Subcategory, Location
 - Customers Analysis
