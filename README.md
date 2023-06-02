@@ -4,6 +4,7 @@
 - Revenue and Profit by Month, Subcategory, Location
 - Customers Analysis
 - Employees Analysis
+- Financial (Balance Sheet and Income Statement)
 2. [Toy Sales Dashboard](https://github.com/DinhNhatAnh/Power-BI-Projects/blob/main/Toy%20Sales%20Dashboard.pdf)
 - Compare the selected top N product to the overall revenue
 - Revenue trend on a monthly basis
